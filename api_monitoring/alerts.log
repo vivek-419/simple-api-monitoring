@@ -1,0 +1,8 @@
+[2026-05-05T05:50:41.736920] ALERT: High Error Rate | Service: None | error_rate = 9.26 (threshold: gt 5.0) | Time: 2026-05-05 05:50:41.736920
+[2026-05-05T05:55:45.156870] ALERT: High Error Rate | Service: None | error_rate = 10.08 (threshold: gt 5.0) | Time: 2026-05-05 05:55:45.156870
+[2026-05-05T06:07:41.591864] ALERT: High Error Rate | Service: None | error_rate = 21.28 (threshold: gt 5.0) | Time: 2026-05-05 06:07:41.591864
+[2026-05-10T05:04:41.062064] ALERT: High Error Rate | Service: None | error_rate = 8.11 (threshold: gt 5.0) | Time: 2026-05-10 05:04:41.062064
+[2026-05-10T05:09:41.067438] ALERT: High Error Rate | Service: None | error_rate = 9.22 (threshold: gt 5.0) | Time: 2026-05-10 05:09:41.067438
+[2026-05-10T05:15:11.062744] ALERT: High Error Rate | Service: None | error_rate = 9.62 (threshold: gt 5.0) | Time: 2026-05-10 05:15:11.062744
+[2026-05-10T05:20:11.068451] ALERT: High Error Rate | Service: None | error_rate = 10.59 (threshold: gt 5.0) | Time: 2026-05-10 05:20:11.068451
+[2026-05-10T05:25:41.066783] ALERT: High Error Rate | Service: None | error_rate = 12.16 (threshold: gt 5.0) | Time: 2026-05-10 05:25:41.066783
