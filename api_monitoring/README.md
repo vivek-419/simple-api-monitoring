@@ -48,4 +48,11 @@ This system evaluates alerts by having a background `APScheduler` job wake up ev
 | `POST` | `/alerts/events/<id>/resolve` | Mark an alert event as resolved. | **Req:** `POST /alerts/events/5/resolve`<br>**Res:** `{"status": "resolved"}` |
 
 ## Dashboard Preview
-*(Navigate to http://localhost:5000/ to view the live dashboard!)*
+<img width="468" height="305" alt="image" src="https://github.com/user-attachments/assets/9826f93e-3464-48e0-9f3b-a780d834d921" />
+<img width="468" height="305" alt="image" src="https://github.com/user-attachments/assets/98944d92-cf00-40ce-b651-2fb27b81be32" />
+<img width="468" height="305" alt="image" src="https://github.com/user-attachments/assets/bae56ace-5f8c-46ac-b915-5767b84fadeb" />
+<img width="468" height="305" alt="image" src="https://github.com/user-attachments/assets/8e0188d5-cd73-4ef4-b6fd-6b1c868fec7b" />
+
+
+
+
